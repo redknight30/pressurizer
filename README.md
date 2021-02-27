@@ -15,3 +15,7 @@ This will cause them to become destroyed, so to use them again they have to be c
 * If pressurizer have cleared more than 3 nodes of liquid, they become destroyed pressurizer.
 * Removing a pressurizer or destroyed pressurizer will turn a 9x9 area of air-like nodes back into air, as long as they are not in the area of another pressurizer.
 *(Air-like nodes can be removed in protection by removing a pressurizer outside the protection, they are not meant to be permanent)*
+
+thes mod may apper as an on nown item 
+
+thes mod might not work in the space mod to make a pokets
